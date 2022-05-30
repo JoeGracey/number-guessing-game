@@ -1,5 +1,17 @@
 * {
-    background-color: rgb(61, 61, 61);
+    background-color: rgb(31, 31, 31);
     color: black;
     font-family: sans-serif;
+}
+
+.main-div {
+    border: 1px solid black;
+    width: 50%;
+    padding: 2em;
+    margin: auto;
+}
+
+input {
+    color: rgb(0, 112, 146);
+    background-color: black;
 }
